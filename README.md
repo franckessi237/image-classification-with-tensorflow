@@ -87,9 +87,6 @@ This project demonstrates the effectiveness of various deep learning techniques 
 - **Data Augmentation**: Apply techniques to increase the diversity of the training data.
 - **Advanced Models**: Explore more advanced architectures and transfer learning techniques.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
