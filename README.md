@@ -71,6 +71,8 @@ This project was developed and executed on **Google Colab**, which provides a cl
 - **CNN Model**: Shows improved performance over the MLP model by leveraging convolutional layers.
 - **Transfer Learning**: Utilizes VGG16 for advanced feature extraction and achieves high classification accuracy with fine-tuning.
 
+**Model Accuracy on Test Data**: The final model achieved a precision of 0.712 (or 71.2%) on the CIFAR-10 test set.
+
 ## Usage
 
 1. **Data Preparation**: Load and preprocess the CIFAR-10 dataset.
@@ -93,4 +95,3 @@ This project demonstrates the effectiveness of various deep learning techniques 
 - The CIFAR-10 dataset is provided by the Canadian Institute for Advanced Research (CIFAR).
 - VGG16 model architecture was developed by the Visual Geometry Group (VGG) at the University of Oxford.
 - The development of this project was facilitated by Google Colab, which provides free access to GPU resources and a collaborative cloud environment.
-
